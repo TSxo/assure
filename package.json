@@ -1,6 +1,6 @@
 {
     "name": "@tsxo/assure",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": "TSxo",
     "license": "MIT",
     "description": "A lightweight, zero dependancy, and typesafe suite of assert functions.",
