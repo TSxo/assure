@@ -1,5 +1,11 @@
 # @tsxo/assure
 
+## 0.1.3
+
+### Patch Changes
+
+- 9ed5053: Fix: Audit
+
 ## 0.1.2
 
 ### Patch Changes
